@@ -25,7 +25,7 @@ Architecture discussions, mentoring, and engineering collaboration.
 ## Currently exploring
 
 ### 🤖 AI-assisted Development
-Using modern AI tools as part of everyday software engineering.
+Exploring AI-native product engineering — from problem and architecture to a working product.
 
 ---
 
