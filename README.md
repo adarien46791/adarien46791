@@ -1,33 +1,32 @@
-<div align="center">
+# Senior Go Developer
 
-<img src="https://avatars.githubusercontent.com/u/223985237?v=4" width="140" alt="Profile logo" />
+**Backend Engineering · System Design · Architecture**
 
-Senior Go Developer
+I build reliable backend systems in **Go** — from architectural decisions to production-ready services.
 
-Backend Engineering · System Design · Architecture
+---
 
-</div>
+## Focus
 
-About
+### 🏗️ System Design & Architecture
+Service boundaries, APIs, integrations, and technical decisions.
 
-I build backend systems in Go, with a strong focus on architecture, system design, and maintainability.
+### ⚙️ Backend Engineering
+Production backend services built with Go.
 
-I enjoy taking ideas from early technical decisions to reliable production systems.
+### 🧩 Distributed Systems
+Reliability, scalability, and service interaction.
 
-Focus
+### 👥 Technical Leadership
+Architecture discussions, mentoring, and engineering collaboration.
 
-Backend Engineering — production services in Go
+---
 
-System Design & Architecture — service boundaries, APIs, integrations, and technical decisions
+## Currently exploring
 
-Technical Leadership — mentoring, hiring, and engineering discussions
+### 🤖 AI-assisted Development
+Using modern AI tools as part of everyday software engineering.
 
-Currently exploring
+---
 
-AI-assisted software development and how modern AI tools can improve everyday engineering workflows.
-
-<div align="center">
-
-Go · Backend · Distributed Systems · Architecture
-
-</div>
+**Go · Backend · Distributed Systems · Architecture**
